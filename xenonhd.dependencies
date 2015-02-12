@@ -1,23 +1,26 @@
 [
-{
-"remote": "cm",
-"repository": "android_kernel_samsung_trlte",
-"target_path": "kernel/samsung/trlte",
-"revision": "cm-12.0"
-},
-
-{
-"remote": "cm",
-"repository": "android_device_samsung_qcom-common",
-"target_path": "device/samsung/qcom-common",
-"revision": "cm-12.0"
-},
-
-{
-"remote": "th",
-"repository": "android_device_samsung_trlte-common",
-"target_path": "device/samsung/trlte-common",
-"revision": "lollipop"
-}
-
+    {
+        "remote": "cm",
+        "repository": "android_kernel_samsung_trlte",
+        "target_path": "kernel/samsung/trlte",
+        "revision": "cm-12.0"
+    },
+    {
+        "remote": "cm",
+        "repository": "android_device_samsung_qcom-common",
+        "target_path": "device/samsung/qcom-common",
+        "revision": "cm-12.0"
+    },
+    {
+        "remote": "th",
+        "repository": "android_device_samsung_trlte-common",
+        "target_path": "device/samsung/trlte-common",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "tm",
+        "repository": "proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "revision": "cm-12.0"
+    }
 ]
